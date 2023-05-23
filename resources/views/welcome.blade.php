@@ -2,4 +2,5 @@
 
 @section('content')
 @include('partials.jumbotron') 
+@include('partials.main')
 @endsection
