@@ -21,3 +21,15 @@
         </div>
     </div>
 </header>
+
+<style lang="scss" scoped>
+header {
+    padding: 30px 0;
+    width: 100%;
+    background-color: violet;
+}
+.input-group > .form-control {
+    width: 40%;
+    flex: 0 0 auto;
+}
+</style>
