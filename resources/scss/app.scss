@@ -20,7 +20,14 @@ img {
 }
 
 header {
+    padding: 30px 0;
     width: 100%;
+    background-color: violet;
+}
+
+.ms_navbar {
+    width: 100%;
+    padding: 0 30px;
 }
 
 main {
@@ -53,4 +60,9 @@ main {
     font-size: .7rem;
     text-align: center;
     margin-left: 36vw;
+}
+
+.ms_banner {
+    height: 100px;
+    background-color: $banners-color;
 }
